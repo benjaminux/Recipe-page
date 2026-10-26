@@ -27,7 +27,7 @@ main {
 main h2 {
     font-family: Young Serif;
     margin-bottom: 16px;
-    color: #7b284f;
+    color: #854632;
 }
 
 main hr {
@@ -47,7 +47,7 @@ ul li span {
 }
 
 ul li::marker {
-    color: #7b284f;
+    color: #854632;
     font-size: small;
 }
 
@@ -117,7 +117,7 @@ font-weight: 700;
 }
 
 .instructions .item .number {
-color: #7b284f;
+color: #854632;
 font-weight: 700;
 margin-right: 12px;
 }
@@ -148,7 +148,7 @@ border-color: #e4ded8;
 }
 
 .nutrition-table .item p:nth-child(2) {
-    color: #7b284f;
+    color: #854632;
     font-weight: 700;
 }
 
